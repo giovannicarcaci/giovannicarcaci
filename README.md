@@ -1,7 +1,4 @@
-# Ciao, sono Giovanni Carcaci 👋
-
-Studente di Informatica al secondo anno presso UNICT. 
-Sviluppatore con una forte passione per le architetture software, i database e il mondo dei motori. Costruisco codice come si prepara un motore: con precisione, efficienza e puntando alle massime prestazioni.
+# Giovanni Carcaci's Git 👋
 
 ### 🛠️ Tech Stack
 **Linguaggi:** Java, C, C++, Python, SQL  

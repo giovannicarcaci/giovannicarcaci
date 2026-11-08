@@ -11,9 +11,7 @@
 <details>
   <summary><b>🎓 Progetti Universitari (UNICT)</b></summary>
   <br>
-  
-  * [Gestione Officina Meccanica](https://github.com/giovannicarcaci/PERSONAL-officina-api) - Progettazione completa di un database relazionale e backend. *(In arrivo)*
-  * [Strutture Dati Dinamiche](https://github.com/giovannicarcaci/UNICT-Dynamic-Structures) - Implementazione in C per la gestione a basso livello della memoria.
+    * [Strutture Dati Dinamiche](https://github.com/giovannicarcaci/UNICT-Dynamic-Structures) - Implementazione in C per la gestione a basso livello della memoria.
 </details>
 
 <details>
@@ -21,6 +19,7 @@
   <br>
   
   * [Analisi Telemetria Automobilistica](https://github.com/giovannicarcaci/PERSONAL-Telemetry_Analisys) - Script Python per processare e analizzare dati telemetrici.
+  * [Gestione Officina Meccanica](https://github.com/giovannicarcaci/PERSONAL-officina-api) -
 </details>
 
 <details>

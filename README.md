@@ -12,23 +12,23 @@
   <summary><b>🎓 Progetti Universitari (UNICT)</b></summary>
   <br>
   
-  * [Gestione Officina Meccanica](#) - Progettazione completa di un database relazionale e backend. *(In arrivo)*
-  * [Strutture Dati Dinamiche](https://github.com/giovannicarcaci/UNICT-StruttureDati-C) - Implementazione in C per la gestione a basso livello della memoria.
+  * [Gestione Officina Meccanica](https://github.com/giovannicarcaci/PERSONAL-officina-api) - Progettazione completa di un database relazionale e backend. *(In arrivo)*
+  * [Strutture Dati Dinamiche](https://github.com/giovannicarcaci/UNICT-Dynamic-Structures) - Implementazione in C per la gestione a basso livello della memoria.
 </details>
 
 <details>
   <summary><b>🏎️ Progetti Personali</b></summary>
   <br>
   
-  * [Analisi Telemetria Automobilistica](https://github.com/giovannicarcaci/PERSONAL-Telemetry-Analysis) - Script Python per processare e analizzare dati telemetrici.
+  * [Analisi Telemetria Automobilistica](https://github.com/giovannicarcaci/PERSONAL-Telemetry_Analisys) - Script Python per processare e analizzare dati telemetrici.
 </details>
 
 <details>
   <summary><b>🏫 Progetti Superiori (Archivio)</b></summary>
   <br>
   
-  * [Flight Management System](https://github.com/giovannicarcaci/HIGHSCHOOL-FlightManagement) - Sistema di prenotazione in Python.
-  * [Hotel Management](https://github.com/giovannicarcaci/HIGHSCHOOL-HotelManagement) - Gestione alberghiera in Python.
-  * [Vehicle Rental](https://github.com/giovannicarcaci/HIGHSCHOOL-VehicleRental) - Noleggio veicoli in C++.
-  * [Rock Paper Scissors](https://github.com/giovannicarcaci/HIGHSCHOOL-RockPaperScissors) - C++.
+  * [Flight Management System](https://github.com/giovannicarcaci/HIGHSCHOOL-Flight_Management) - Sistema di prenotazione in Python.
+  * [Hotel Management](https://github.com/giovannicarcaci/HIGHSCHOOL-Hotel_Management) - Gestione alberghiera in Python.
+  * [Vehicle Rental](https://github.com/giovannicarcaci/HIGHSCHOOL-Rent_Vehicle) - Noleggio veicoli in C++.
+  * [Rock Paper Scissors](https://github.com/giovannicarcaci/HIGHSCHOOL-RockPaperScissors](https://github.com/giovannicarcaci/PERSONAL-PaperRockScissors_Two_Dice)) - C++.
 </details>
